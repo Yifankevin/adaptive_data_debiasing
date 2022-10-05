@@ -3,7 +3,7 @@
 By Yifan Yang<sup>1</sup>, Yang Liu<sup>2</sup> and Parinaz Naghizadeh<sup>1</sup>  
 
   <sup>1</sup>: The Ohio State University, Columbus OH, USA  
-  <sup>2</sup>: University of California, Santa Cruz, Santa Cruz, CA, USA 
+  <sup>2</sup>: University of California, Santa Cruz, Santa Cruz CA, USA 
 
 ### Introduction
 
