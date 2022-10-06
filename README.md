@@ -1,6 +1,6 @@
 # Adaptive Data Debiasing through Bounded Exploration
 
-By Yifan Yang<sup>1</sup>, Yang Liu<sup>2</sup> and Parinaz Naghizadeh<sup>1</sup>  
+By [Yifan Yang](https://sites.google.com/view/yangyifan/yifan_yang)<sup>1</sup>, [Yang Liu](http://www.yliuu.com/)<sup>2</sup> and [Parinaz Naghizadeh](https://parinazn.com/)<sup>1</sup>  
 
   <sup>1</sup>: The Ohio State University, Columbus OH, USA  
   <sup>2</sup>: University of California, Santa Cruz, Santa Cruz CA, USA 
@@ -8,6 +8,33 @@ By Yifan Yang<sup>1</sup>, Yang Liu<sup>2</sup> and Parinaz Naghizadeh<sup>1</su
 ### Introduction
 
 This repository is for our NeurIPS 2022 paper '[Adaptive Data Debiasing through Bounded Exploration](https://arxiv.org/abs/2110.13054)'.
+
+### Required packages
+
+from sklearn.model_selection import train_test_split  
+from sklearn.linear_model import LogisticRegression  
+from sklearn.utils import shuffle  
+from sklearn import metrics  
+from sklearn.metrics import confusion_matrix  
+import sklearn.preprocessing as preprocessing  
+
+from scipy.stats import norm, beta  
+from statistics import median  
+from random import choices  
+import numpy as np  
+import pandas as pd  
+import matplotlib.pyplot as plt  
+
+from responsibly.dataset import build_FICO_dataset  
+from responsibly.fairness.interventions.threshold import find_thresholds  
+
+### Baseline models  
+
+Mode1 1: Exploititaiton only model (Collect all data above threshold)  
+- See file  
+
+Model 2: Pure exploration (Collect all data without considering risk)  
+- See file
 
 
 
