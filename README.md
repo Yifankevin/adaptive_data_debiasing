@@ -40,7 +40,7 @@ from responsibly.fairness.interventions.threshold import find_thresholds
 
 ### Experiments : baseline models  
 
-Mode1 1: Exploititaiton only model (Collect all data above threshold)  
+Model 1: Exploititaiton only model (Collect all data above threshold)  
 - See file [Exploitation_Only_Baseline.ipynb](Exploitation_Only_Baseline.ipynb) 
 
 Model 2: Pure exploration (Collect all data without considering risk)  
