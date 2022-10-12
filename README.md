@@ -70,4 +70,4 @@ If this repository is useful for your research, please consider citing:
    
 
 ### Acknowledgement  
-We sincerely thank three reviewers for taking the time to review our paper and providing constructive feedback to improve our paper. We are also grateful for support from Cisco Research, and the NSF program on Fairness in AI in collaboration with Amazon under Award No. IIS-2040800. Any opinion, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the NSF, Amazon, or Cisco.
+We sincerely thank the three reviewers and the area chair for their comments and feedback which helped improve our paper. We are also grateful for support from the National Science Foundation (NSF) program on Fairness in AI in collaboration with Amazon under Award No. IIS-2040800, the NSF under grant IIS-2143895, and Cisco Research. Any opinion, findings, and conclusions or recommendations expressed in this material are those of the authors and do not necessarily reflect the views of the NSF, Amazon, or Cisco.
