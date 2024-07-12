@@ -51,10 +51,10 @@ Model 2: Pure exploration (Collect all data without considering risk)
 Synthetic symmetric Data: see file [Gaussian_Experiment.ipynb](Gaussian_Experiment.ipynb)  
 Synthetic asymmetric Data: see file [Beta_Experiment.ipynb](Beta_Experiment.ipynb)  
 
-### Experiments: real dataset and fairness
+### Experiments:
 
 Real Dataset (**Adult, FICO, Fair**): see file [Adult_FICO_Gaussian_Fair.ipynb](Adult_FICO_Gaussian_Fair.ipynb)  
-
+Two Stage MDP Experiments: see file [MDP.ipynb](MDP.ipynb)  
 
 ### Citation
 
